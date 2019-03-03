@@ -11,7 +11,7 @@ CMD="docker run --hostname spring-boot-kotlin \
                 --group-add ${DOCKER_GROUP_ID} \
                 --env HOME=${HOME_DIR} \
                 --interactive \
-                --name spring-boot-kotlin \
+                --name spring-cloud-aws-kotlin \
                 --rm \
                 --tty \
                 --user=${USER_ID}:${GROUP_ID} \

@@ -17,12 +17,17 @@ toc::[]
 This project is a sample application that showcases how Spring Boot and Kotlin make a nice mix when using Amazon Web Services.
 
 == Prerequisites
+* https://www.docker.com/[Docker]
+* https://github.com/localstack/localstack[LocalStack]
 
 == Building
+The application can be built via Docker by running `./build.sh`.
 
 == Installation
 
 == Tips and Tricks
+=== Running The Application
+`./run.sh` will start the application as well as the Docker containers simulating AWS services.
 
 == Troubleshooting
 
