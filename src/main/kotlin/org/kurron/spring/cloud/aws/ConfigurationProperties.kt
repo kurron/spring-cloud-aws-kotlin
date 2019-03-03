@@ -3,7 +3,7 @@ package org.kurron.spring.cloud.aws
 import org.springframework.boot.context.properties.ConfigurationProperties
 
 @ConfigurationProperties("blog")
-class BlogProperties {
+class ConfigurationProperties {
 
     lateinit var title: String
     val banner = Banner()

@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable
 @Controller
 class HtmlController( private val repository: ArticleRepository,
                       private val markdownConverter: MarkdownConverter,
-                      private val properties: BlogProperties ) {
+                      private val properties: ConfigurationProperties ) {
 
     @GetMapping("/")
     fun blog(model: Model): String {
