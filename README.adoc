@@ -7,13 +7,14 @@
 :warning-caption: :warning:
 :caution-caption: :fire:
 
-= Building web applications with Spring Boot and Kotlin 
+= Building AWS applications with Spring Boot and Kotlin
 Ron Kurr <rkurr@jvmguy.com>
 
 
 toc::[]
 
 == Overview
+This project is a sample application that showcases how Spring Boot and Kotlin make a nice mix when using Amazon Web Services.
 
 == Prerequisites
 
