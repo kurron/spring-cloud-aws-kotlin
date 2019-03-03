@@ -21,7 +21,7 @@ apply plugin: 'kotlin-kapt' // generates metadata for the IDEs
 apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 
-group = 'com.example'
+group = 'org.kurron'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.8
 compileKotlin {
@@ -38,7 +38,7 @@ compileTestKotlin {
 }
 
 repositories {
-    mavenCentral()
+   jcenter()
 }
 
 
