@@ -1,4 +1,4 @@
-package blog
+package org.kurron.spring.cloud.aws
 
 import org.springframework.boot.context.properties.ConfigurationProperties
 

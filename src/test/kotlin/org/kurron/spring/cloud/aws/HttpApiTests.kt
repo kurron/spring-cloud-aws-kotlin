@@ -1,4 +1,4 @@
-package blog
+package org.kurron.spring.cloud.aws
 
 import com.nhaarman.mockito_kotlin.whenever
 import org.junit.jupiter.api.Test

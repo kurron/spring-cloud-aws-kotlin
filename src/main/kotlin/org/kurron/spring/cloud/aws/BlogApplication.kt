@@ -1,4 +1,4 @@
-package blog
+package org.kurron.spring.cloud.aws
 
 import com.samskivert.mustache.Mustache
 import org.springframework.boot.Banner.Mode.OFF

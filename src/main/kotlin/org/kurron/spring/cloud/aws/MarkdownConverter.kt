@@ -1,4 +1,4 @@
-package blog
+package org.kurron.spring.cloud.aws
 
 import org.commonmark.ext.autolink.AutolinkExtension
 import org.commonmark.parser.Parser

@@ -1,4 +1,4 @@
-package blog
+package org.kurron.spring.cloud.aws
 
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test

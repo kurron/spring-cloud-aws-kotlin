@@ -1,4 +1,4 @@
-package blog
+package org.kurron.spring.cloud.aws
 
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatterBuilder

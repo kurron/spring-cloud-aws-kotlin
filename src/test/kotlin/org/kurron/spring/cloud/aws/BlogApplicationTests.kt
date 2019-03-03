@@ -1,4 +1,4 @@
-package blog
+package org.kurron.spring.cloud.aws
 
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.extension.ExtendWith
